@@ -1,2 +1,0 @@
-# Techplement
-Techplement repo
